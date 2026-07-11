@@ -12,7 +12,7 @@ const client = new Client({
   // Owner 1
     { name: "VA", lid: "247579682029763@lid", jid: "972569311531@s.whatsapp.net" },
   // Owner 2
-    { name: "emam", lid: "22242093180@lid", jid: "22226301469@s.whatsapp.net" },
+    { name: "emam", lid: "22242093180@lid", jid: "22242093180@s.whatsapp.net" },
   // Owner 3
     { name: "Sukuna", jid: "201033024135@s.whatsapp.net", lid: "50414477168824@lid" },
   // Owner 4 
